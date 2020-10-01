@@ -4,7 +4,7 @@ It's a quiz app with some interesting questions having gradient property. Also s
 Used rflutter alert when the quiz is qver to restart the quiz again.
 <p align="center">
   <img src="Screenshot1.jpg" width="350" title="hover text">
-  <img src="Screenshot1.jpg" width="350" alt="accessibility text">
+  <img src="Screenshot2.jpg" width="350" alt="accessibility text">
 </p>
 
 
