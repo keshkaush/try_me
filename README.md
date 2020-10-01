@@ -2,7 +2,10 @@
 
 It's a quiz app with some interesting questions having gradient property. Also shows live score.
 Used rflutter alert when the quiz is qver to restart the quiz again.
-![Screenshot](screenshot1.jpg) ![Screenshot](screenshot2.jpg)
+<p align="center">
+  <img src="Screenshot1.jpg" width="350" title="hover text">
+  <img src="Screenshot1.jpg" width="350" alt="accessibility text">
+</p>
 
 
 ## Getting Started
