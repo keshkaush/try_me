@@ -1,6 +1,9 @@
 # try_me
 
-A new Flutter application.
+It's a quiz app with some interesting questions having gradient property. Also shows live score.
+Used rflutter alert when the quiz is qver to restart the quiz again.
+![Screenshot](screenshot1.jpg) ![Screenshot](screenshot2.jpg)
+
 
 ## Getting Started
 
